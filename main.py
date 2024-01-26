@@ -1,4 +1,3 @@
-#<
 import random
 
 # Snake Water Gun or Rock Paper Scissors
